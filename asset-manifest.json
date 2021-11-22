@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/encurtador-url-interface/static/js/main.039a4823.chunk.js",
+    "main.js.map": "/encurtador-url-interface/static/js/main.039a4823.chunk.js.map",
+    "runtime-main.js": "/encurtador-url-interface/static/js/runtime-main.36245194.js",
+    "runtime-main.js.map": "/encurtador-url-interface/static/js/runtime-main.36245194.js.map",
+    "static/js/2.33f84732.chunk.js": "/encurtador-url-interface/static/js/2.33f84732.chunk.js",
+    "static/js/2.33f84732.chunk.js.map": "/encurtador-url-interface/static/js/2.33f84732.chunk.js.map",
+    "index.html": "/encurtador-url-interface/index.html",
+    "static/js/2.33f84732.chunk.js.LICENSE.txt": "/encurtador-url-interface/static/js/2.33f84732.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36245194.js",
+    "static/js/2.33f84732.chunk.js",
+    "static/js/main.039a4823.chunk.js"
+  ]
+}
